@@ -24,8 +24,8 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["JavaScript and nodeJS Mentor at 'Creative Shaper" && Web Developer  at 'Creative System Limited' ],
+<!--    challenge: "I'm working towards being able to run a marathon.", -->
 };
 ```
 
