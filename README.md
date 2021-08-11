@@ -50,6 +50,6 @@
 
 ---
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+⭐️ From [alemprogramer](https://github.com/alemprogramer)  and  [FelixRilling](https://github.com/)
 
 
