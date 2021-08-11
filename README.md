@@ -19,7 +19,7 @@ const aboutMe = {
          java: ["Spring"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Firebase","Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
@@ -30,7 +30,7 @@ const aboutMe = {
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemprogramer&show_icons=true)
 
 
 
