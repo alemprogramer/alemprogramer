@@ -89,7 +89,7 @@ const aboutMe = {
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&show_icons=true) -->
 
 <!-- <a href="https://github.com/alemprogramer">
   <img src="https://img.shields.io/github/followers/alemprogramer">
@@ -105,7 +105,7 @@ const aboutMe = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<!-- ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png) -->
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 ---
 
 ⭐️ From [alemprogramer](https://github.com/alemprogramer)  and  [FelixRilling](https://github.com/)
