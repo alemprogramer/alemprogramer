@@ -9,10 +9,10 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
+         js: ["React", "Svelte"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
@@ -25,7 +25,6 @@ const aboutMe = {
       mobile: ["Android", "IOS"]
    },
    currentOccupation: ["JavaScript and nodeJS Mentor at 'Creative Shaper" && Web Developer  at 'Creative System Limited' ],
-<!--    challenge: "I'm working towards being able to run a marathon.", -->
 };
 ```
 
