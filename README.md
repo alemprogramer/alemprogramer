@@ -1,11 +1,14 @@
 ### Hi there 👋 I'm [Aleam Hossain Hasib](#)
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 ---
-<p><em>Web Developer at <a href="https://creativesystemltd.com/">Creative System Limited</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
    </br>
-   JavaScript and nodeJS Mentor  at <a href="https://www.creativeshaper.com/">Creative Shaper</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+   > Web Developer at [Creative Shaper](https://creativesystemltd.com/)
+   > JavaScript and nodeJS Mentor at [Creative Shaper](https://www.creativeshaper.com/)
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
