@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, C++],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, , C++],
    technologies: {
       frontEnd: {
          js: ["React", "Svelte"],
@@ -18,7 +18,6 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
          misc: ["Firebase","Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
@@ -91,12 +90,12 @@ const aboutMe = {
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&show_icons=true) -->
 
-<!-- <a href="https://github.com/alemprogramer">
+<a href="https://github.com/alemprogramer">
   <img src="https://img.shields.io/github/followers/alemprogramer">
 </a>
 <a href="https://github.com/iCharlesZ">
    <img src="https://komarev.com/ghpvc/?username=alemprogramer">
-</a> -->
+</a>
 
 <!-- <p align="center"> 
   Visitor count<br>
