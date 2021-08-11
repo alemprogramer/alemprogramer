@@ -36,6 +36,22 @@ const aboutMe = {
 
 
 
+<br><br>
+
+
+
+
+
+
+
+
+<br><br>
+<h2>💻 Some stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+---
+
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
@@ -72,20 +88,6 @@ const aboutMe = {
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
-<br><br>
-
-
-
-
-
-
-
-
-<br><br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
----
 <!-- <a href="https://github.com/alemprogramer">
   <img src="https://img.shields.io/github/followers/alemprogramer">
 </a>
