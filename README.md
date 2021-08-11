@@ -93,7 +93,7 @@ const aboutMe = {
 <a href="https://github.com/alemprogramer">
   <img src="https://img.shields.io/github/followers/alemprogramer">
 </a>
-<a href="https://github.com/iCharlesZ">
+<a href="https://github.com/alemprogramer">
    <img src="https://komarev.com/ghpvc/?username=alemprogramer">
 </a>
 
