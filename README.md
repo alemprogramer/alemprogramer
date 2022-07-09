@@ -4,9 +4,8 @@
 ---
 
    
-   > Web Developer at [Creative System Limited](https://creativesystemltd.com/)
+   > Frontend Developer at [Golovary](https://glovory.com)
    
-   > JavaScript and nodeJS Mentor at [Creative Shaper](https://www.creativeshaper.com/)
 
 
 
@@ -16,21 +15,20 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, , C++],
+   code: [Javascript, Typescript, HTML, CSS, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "Svelte"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "next"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind CSS"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         misc: ["Firebase","Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node", "Express","Nest.js"],
+         misc: ["Firebase", "AWS(lambda,cognito)]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "Prisma", "postgresql"],
+      mobile: ["React-native"]
    },
-   currentOccupation: ["JavaScript and nodeJS Mentor at 'Creative Shaper" && Web Developer  at 'Creative System Limited' ],
+   currentOccupation: ["Frontend Developer at Golovary" ],
 };
 ```
 
