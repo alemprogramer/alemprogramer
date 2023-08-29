@@ -4,7 +4,7 @@
 ---
 
    
-   > Frontend Developer at [Golovary](https://glovory.com)
+  <!-- > Frontend Developer at [Golovary](https://glovory.com) -->
    
 
 
