@@ -18,7 +18,7 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS, C++],
    technologies: {
       frontEnd: {
-         js: ["React", "next"],
+         js: ["React.js", "Next.js"],
          css: ["Materialize", "Bootstrap", "Material Design", "Tailwind CSS"]
       },
       backEnd: {
@@ -26,7 +26,7 @@ const aboutMe = {
          API:[REST,Graphql]
          misc: ["Firebase", "AWS(lambda,cognito,s3)]
       },
-      databases: ["MongoDB", "Prisma", "postgresql"],
+      databases: ["MongoDB", "Prisma", "Postgresql"],
       mobile: ["React-native"]
    },
    currentOccupation: ["Frontend Developer at Golovary" ],
