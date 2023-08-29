@@ -23,7 +23,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express","Nest.js"],
-         API:[REST,Graphql]
+         API:[REST,Graphql],
          misc: ["Firebase", "AWS(lambda,cognito,s3)]
       },
       databases: ["MongoDB", "Prisma", "Postgresql"],
