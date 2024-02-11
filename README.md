@@ -114,6 +114,6 @@ const aboutMe = {
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 ---
 
-⭐️ From [alemprogramer](https://github.com/alemprogramer)  and  [FelixRilling](https://github.com/)
+⭐️ From [alemprogramer](https://github.com/alemprogramer)
 
 
