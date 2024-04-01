@@ -27,6 +27,7 @@ const aboutMe = {
          misc: ["Firebase", "AWS(lambda,cognito,s3)]
       },
       databases: ["MongoDB", "Prisma", "Postgresql"],
+      cloud:[ aws{EC2,ECS,ECR,Fargate,lambda,s3,Amplify,Elastic Beanstalk ,cognito,}
       mobile: ["React-native"]
    },
    currentOccupation: ["Frontend Developer at Golovary" ],
