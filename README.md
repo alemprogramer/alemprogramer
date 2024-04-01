@@ -41,38 +41,38 @@ const aboutMe = {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="#">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
-  </a>
+  <!--<a href="#">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="alemprogamers DEV Profile" height="30" width="30">
+  </a>-->
       
  <a href="https://www.linkedin.com/in/lm-hossain">
-<!--  <a href="#"> -->
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="alemprogamer LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackoverflow.com/users/17761497/aleam-hossain-hasib">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="alemprogamer Stack Overflow Profile" height="30" width="30">
+  </a>
+
+  <!--<a href="#">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="alemprogamer Stack Exchange Profile" height="30" width="30">
   </a>
 
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-
-  <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
-  </a>
-
-  <a href="#">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="alemprogamer Profile" height="30" width="30">
   </a>
   
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="alemprogamer GitLab Profile" height="30" width="30">
   </a>
   
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="alemprogamer Medium Profile" height="30" width="30">
   </a>
   
   <a href="#">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="alemprogamer YouTube Channel" height="30" width="30">
+  </a> -->
+  send me an email: <a href="mailto:alemhhasib@mail.com">alemhhasib@gmail.com</a>
 </p>
 
 
@@ -93,14 +93,14 @@ const aboutMe = {
 <br><br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&langs_count=10&theme=tokyonight&layout=compact" alt="alemprogramer :: Top Langs" /></p>
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&show_icons=true)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&langs_count=10&theme=tokyonight&layout=compact" alt="alemprogramer :: Top Langs" /></p>
+<!--![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&show_icons=true)-->
 
 <a href="https://github.com/alemprogramer">
   <img src="https://img.shields.io/github/followers/alemprogramer">
-</a>
+</a> 
 <a href="https://github.com/alemprogramer">
    <img src="https://komarev.com/ghpvc/?username=alemprogramer">
 </a>
