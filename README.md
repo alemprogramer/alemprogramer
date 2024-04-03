@@ -12,6 +12,8 @@ Hi, I'm LM, a passionate CSE grad Full Stack Web Application Developer from <img
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/lmhhasib/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=white)](https://twitter.com/LmHossain26919) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white)](mailto:alemhhasib@gmail.com)
+[![Static Badge](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&labelColor=white)](https://www.upwork.com/freelancers/~01164fc11a97a24f42)
+
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("....")` <br/>
