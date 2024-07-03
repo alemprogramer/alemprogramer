@@ -10,7 +10,7 @@ Hi, I'm LM, a passionate CSE grad Full Stack Web Application Developer from <img
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=white)](https://www.facebook.com/alemhossain.hasib/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=white)](https://www.linkedin.com/in/lm-hossain/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/lmhhasib/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=white)](https://twitter.com/LmHossain26919) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=1DA1F2&labelColor=white)](https://twitter.com/LmHossain26919) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=white)](mailto:alemhhasib@gmail.com)
 [![Static Badge](https://img.shields.io/badge/upwork-6FDA44?style=for-the-badge&logo=upwork&labelColor=white)](https://www.upwork.com/freelancers/~01164fc11a97a24f42)
 
