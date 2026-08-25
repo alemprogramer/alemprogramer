@@ -41,53 +41,113 @@ Hi, I'm LM, a passionate CSE grad Full Stack Web Application Developer from <img
 </br></br></br>
 
 #### In cloud technlogy
-![Ec2 Badge](https://img.shields.io/badge/amazon--ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900&labelColor=white&color=%23FF9900)
-![s3](https://img.shields.io/badge/amazon--s3-569A31?style=for-the-badge&logo=amazons3&logoColor=%23569A31&labelColor=white&color=%23569A31)
-![ECS Badge](https://img.shields.io/badge/amazon--ecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=%23FF9900&labelColor=white&color=%23FF9900)
-![Route 53](https://img.shields.io/badge/route%2053-%238C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=%238C4FFF&labelColor=white&color=%238C4FFF)
-![fargate](https://img.shields.io/badge/aws--fargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=%23FF9900&labelColor=white&color=%23FF9900)
-![amplify](https://img.shields.io/badge/aws--amplify-DD344C?style=for-the-badge&logo=awsamplify&logoColor=%23DD344C&labelColor=white&color=%23DD344C)
-![dynamodb](https://img.shields.io/badge/amazon%20dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=%234053D6&labelColor=white&color=%234053D6)
-![lambda](https://img.shields.io/badge/aws--lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=%23FF9900&labelColor=white&color=%23FF9900)
-![Static Badge](https://img.shields.io/badge/amazon%20api--gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=%23FF4F8B&labelColor=white&color=%23FF4F8B)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Fargate](https://img.shields.io/badge/AWS%20Fargate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 </br>
+
+#### AI Agents, LLM Orchestration & RAG
+
+[![OpenAI Badge](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=white)](#) 
+[![Anthropic Badge](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=white)](#) 
+[![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=white)](#) 
+[![LangChain Badge](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=1C3C3C&labelColor=white)](#) 
+[![LlamaIndex Badge](https://img.shields.io/badge/LlamaIndex-FF6B6B?style=for-the-badge&logo=llamaindex&logoColor=FF6B6B&labelColor=white)](#) 
+[![Ollama Badge](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=black&labelColor=white)](#) 
+[![Pinecone Badge](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=black&labelColor=white)](#) 
+[![Qdrant Badge](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=DC2626&labelColor=white)](#) 
+[![Weaviate Badge](https://img.shields.io/badge/Weaviate-00D084?style=for-the-badge&logo=weaviate&logoColor=00D084&labelColor=white)](#)
+
+</br>
+
+#### Voice AI, STT, TTS & Real-Time Audio
+
+[![LiveKit Badge](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white&labelColor=black)](#) 
+[![WebRTC Badge](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=black)](#) 
+[![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=white)](#) 
+[![HuggingFace Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=white)](#) 
+[![NVIDIA NeMo Badge](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=76B900&labelColor=white)](#) 
+[![OpenAI Whisper Badge](https://img.shields.io/badge/Whisper%20ASR-00A67E?style=for-the-badge&logo=openai&logoColor=00A67E&labelColor=white)](#) 
+[![Coqui TTS Badge](https://img.shields.io/badge/Coqui%20TTS-009688?style=for-the-badge&logo=soundcharts&logoColor=009688&labelColor=white)](#) 
+[![ElevenLabs Badge](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=black&labelColor=white)](#) 
+[![ONNX Runtime Badge](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=005CED&labelColor=white)](#)
+
+</br>
+
+#### SIP, VoIP & Telephony Communication
+
+[![SIP Protocol Badge](https://img.shields.io/badge/SIP%20Trunking-555555?style=for-the-badge&logo=sip&logoColor=white&labelColor=black)](#) 
+[![Asterisk Badge](https://img.shields.io/badge/Asterisk%20PBX-F37023?style=for-the-badge&logo=asterisk&logoColor=F37023&labelColor=white)](#) 
+[![FreeSWITCH Badge](https://img.shields.io/badge/FreeSWITCH-3F51B5?style=for-the-badge&logo=linux&logoColor=3F51B5&labelColor=white)](#) 
+[![Twilio Badge](https://img.shields.io/badge/Twilio%20Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=F22F46&labelColor=white)](#) 
+[![WebRTC Badge](https://img.shields.io/badge/WebRTC%20VoIP-333333?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=black)](#) 
+[![LiveKit SIP Badge](https://img.shields.io/badge/LiveKit%20SIP%20Bridge-000000?style=for-the-badge&logo=livekit&logoColor=white&labelColor=black)](#)
+
+### My Projects & Ventures
 
 ### My Projects & Ventures
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Responses</b></td>
+      <td><b>Responses / Status</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.npmjs.com/package/auth-now" target="_blank">auth-now</a></td>
-      <td>Npm package for easy authentication</td>
-      <td>99+ active download per week</td>
+      <td><a href="https://www.gofcom.com/" target="_blank"><b>GoFCom</b></a></td>
+      <td>Full-stack multi-tenant E-Commerce SaaS platform tailored for F-Commerce and digital merchants.</td>
+      <td>Live Platform</td>
     </tr>
     <tr>
-      <td><a href="https://www.npmjs.com/package/ip-in" target="_blank">ip-in</a></td>
-      <td>Npm package for getting user IP frontend and backend</td>
-      <td>193+ active download per week </td>
+      <td><a href="https://nlmcalls.verticasoft.com/" target="_blank"><b>NLM Calls</b></a></td>
+      <td>AI-powered call center voice agent & Inbound/Outbound Telephony platform built on our own SIP trunking and real-time STT/TTS.</td>
+      <td>Live / Enterprise AI</td>
     </tr>
     <tr>
-      <td><a href="https://cms-mu-teal.vercel.app/login" target="_blank">Co-ms</a></td>
-      <td> Company management, accounts management, employee management and project  management tool </td>
-      <td>already use it 9 member </td>
+      <td><a href="https://email.gofcom.com/" target="_blank"><b>GoFCom Email Engine</b></a></td>
+      <td>Transactional & marketing email SaaS with custom DNS verification (SPF/DKIM), webhook analytics, and campaign automation.</td>
+      <td>Live SaaS Platform</td>
     </tr>
     <tr>
-      <td><a href="https://post-all-frontend.vercel.app/" target="_blank">post-all</a></td>
-      <td>Share your POST on all Social Platforms </td>
-      <td>it's not ready yet</td>
+      <td><a href="https://www.verticasoft.com/" target="_blank"><b>Verticasoft</b></a></td>
+      <td>Next-gen software agency delivering custom AI systems, scalable web architecture, and cloud infrastructure.</td>
+      <td>Official Site</td>
     </tr>
     <tr>
-      <td><a href="https://alemprogramer.github.io/countryProduct/" target="_blank">Country product</a></td>
-      <td>Using this AI Tool to know which product belongs to which country. there are three types of ways 1) real-time prediction 2)upload an image and prediction 3)pic a photo and prediction</td>
-      <td>2.5k+ active user</td>
+      <td><a href="https://www.npmjs.com/package/auth-now" target="_blank"><b>auth-now</b></a></td>
+      <td>Npm package for rapid and secure authentication integration.</td>
+      <td>99+ active downloads/week</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.npmjs.com/package/ip-in" target="_blank"><b>ip-in</b></a></td>
+      <td>Npm package for extracting user IP across client and server environments.</td>
+      <td>193+ active downloads/week</td>
+    </tr>
+    <tr>
+      <td><a href="https://cms-mu-teal.vercel.app/login" target="_blank"><b>Co-ms</b></a></td>
+      <td>Company, accounts, employee, and project management workspace.</td>
+      <td>Production Ready</td>
+    </tr>
+    <tr>
+      <td><a href="https://alemprogramer.github.io/countryProduct/" target="_blank"><b>Country Product</b></a></td>
+      <td>Computer vision AI tool identifying product origin via real-time camera feed and file uploads.</td>
+      <td>2.5k+ active users</td>
+    </tr>
+    <tr>
+      <td><a href="https://post-all-frontend.vercel.app/" target="_blank"><b>post-all</b></a></td>
+      <td>Social media automation dashboard to broadcast posts across multiple platforms.</td>
+      <td>In Progress</td>
     </tr>
   </tbody>
 </table>
@@ -112,8 +172,9 @@ Hi, I'm LM, a passionate CSE grad Full Stack Web Application Developer from <img
   You wanna know more about me?
 </summary>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alemprogramer&count_private=true&theme=tokyonight&hide=contribs,prs)
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&langs_count=10&theme=tokyonight&layout=compact" alt="alemprogramer :: Top Langs" /></p>-->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alemprogramer&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemprogramer&langs_count=10&theme=tokyonight&layout=compact" alt="alemprogramer :: Top Langs" /></p>-->
 
 </details>
 
